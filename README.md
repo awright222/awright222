@@ -10,17 +10,39 @@ I’m driven by curiosity and a love of learning, constantly pushing myself to m
 
 Feel free to check out my portfolio, connect with me on LinkedIn, or reach out—I’d love to chat about opportunities to build impactful software solutions together!
 
-<!--
-**awright222/awright222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 I’m currently working on
 
-Here are some ideas to get you started:
+## 🛠 My skills and experience
+Languages: JavaScript, Python		
+Databases: PostgreSQL, SQLAlchemy, Sequelize
+Frontend: React, Next.js, Tailwind CSS	
+Backend & APIs: Flask, Express.js, Node.js
+Tools: Docker, Git, Redux Toolkit, VS
+ 
+## 🔆 Key Projects
+Migration Station -  Express, SQL, React, Redux
+Engineered a dynamic property listing and booking system with React and Express.js, enabling real-time updates and intuitive user interactions.
+Implemented session-based authentication using cookies, maintaining secure and persistent user sessions without exposing credentials.
+Optimized database queries using Sequelize with PostgreSQL, reducing response times for search and booking functionality, ensuring scalability as listings grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lovely Paws  -  Python, Flask, SQLAlchamy, Docker, Redux, Toolkit
+Developed a mobile-responsive UI with CSS media queries, ensuring smooth navigation across all screen sizes.
+Built a RESTful Flask API with SQLAlchemy, enabling seamless pet boarding reservation management with efficient relational data queries.
+Containerized the application with Docker, standardizing development and deployment environments for reliability across multiple servers.
+
+
+Guide Finder  -  Python, Flask, SQLAlchamy, Docker, Redux, Toolkit
+Created an advanced search and filtering system using React, Flask, and PostgreSQL, allowing users to refine outdoor guides by activity type, location, and skill level.
+Optimized backend API performance with SQLAlchemy and Flask-SQLAlchemy, reducing query times and ensuring smooth data retrieval for a responsive UI.
+Integrated secure authentication with Flask and bcrypt, ensuring protected user access
+
+Mortgage Calculator  -  Next.js and tailwind.css
+Built a real-time mortgage calculator with Next.js, dynamically updating calculations based on user input.
+Designed a detailed amortization table using JavaScript array mapping, providing users with precise breakdowns of payments.
+Styled the interface with Tailwind CSS, achieving a modern, minimalist design with a clean user experience.
+
+## 📫 How to reach me: ...
+- Email: alex.gr.wright@gmail.com
+- LinkedIn: www.linkedin.com/in/alexgwright2
+- Portolio: https://www.alexwrightportfolio.com/
+
