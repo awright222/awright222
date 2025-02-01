@@ -11,7 +11,7 @@ I’m driven by curiosity and a love of learning, constantly pushing myself to m
 Feel free to check out my portfolio, connect with me on LinkedIn, or reach out—I’d love to chat about opportunities to build impactful software solutions together!
 
 ## 💻 I’m currently working on
-🔐 **Authentication & Security** – Enhancing session-based authentication, CSRF protection, and best security practices  
+- 🔐 **Authentication & Security** – Enhancing session-based authentication, CSRF protection, and best security practices  
 - 🗺️ **Mapping & Tracking Functionality** – Exploring interactive maps and real-time tracking with Leaflet, Mapbox, or Google Maps APIs  
 - ⚡ **Exploring TypeScript** – Enhancing JavaScript skills with static typing for better code quality, maintainability, and scalability.
 
@@ -28,23 +28,23 @@ Feel free to check out my portfolio, connect with me on LinkedIn, or reach out�
 - Tools: Docker, Git, Redux Toolkit, VS
  
 ## 🔆 Key Projects
-Migration Station -  Express, SQL, React, Redux
+- Migration Station -  Express, SQL, React, Redux
 Engineered a dynamic property listing and booking system with React and Express.js, enabling real-time updates and intuitive user interactions.
 Implemented session-based authentication using cookies, maintaining secure and persistent user sessions without exposing credentials.
 Optimized database queries using Sequelize with PostgreSQL, reducing response times for search and booking functionality, ensuring scalability as listings grow.
 
-Lovely Paws  -  Python, Flask, SQLAlchamy, Docker, Redux, Toolkit
+- Lovely Paws  -  Python, Flask, SQLAlchamy, Docker, Redux, Toolkit
 Developed a mobile-responsive UI with CSS media queries, ensuring smooth navigation across all screen sizes.
 Built a RESTful Flask API with SQLAlchemy, enabling seamless pet boarding reservation management with efficient relational data queries.
 Containerized the application with Docker, standardizing development and deployment environments for reliability across multiple servers.
 
 
-Guide Finder  -  Python, Flask, SQLAlchamy, Docker, Redux, Toolkit
+- Guide Finder  -  Python, Flask, SQLAlchamy, Docker, Redux, Toolkit
 Created an advanced search and filtering system using React, Flask, and PostgreSQL, allowing users to refine outdoor guides by activity type, location, and skill level.
 Optimized backend API performance with SQLAlchemy and Flask-SQLAlchemy, reducing query times and ensuring smooth data retrieval for a responsive UI.
 Integrated secure authentication with Flask and bcrypt, ensuring protected user access
 
-Mortgage Calculator  -  Next.js and tailwind.css
+- Mortgage Calculator  -  Next.js and tailwind.css
 Built a real-time mortgage calculator with Next.js, dynamically updating calculations based on user input.
 Designed a detailed amortization table using JavaScript array mapping, providing users with precise breakdowns of payments.
 Styled the interface with Tailwind CSS, achieving a modern, minimalist design with a clean user experience.
