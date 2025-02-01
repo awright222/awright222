@@ -11,13 +11,21 @@ I’m driven by curiosity and a love of learning, constantly pushing myself to m
 Feel free to check out my portfolio, connect with me on LinkedIn, or reach out—I’d love to chat about opportunities to build impactful software solutions together!
 
 ## 💻 I’m currently working on
+🔐 **Authentication & Security** – Enhancing session-based authentication, CSRF protection, and best security practices  
+- 🗺️ **Mapping & Tracking Functionality** – Exploring interactive maps and real-time tracking with Leaflet, Mapbox, or Google Maps APIs  
+- ⚡ **Exploring TypeScript** – Enhancing JavaScript skills with static typing for better code quality, maintainability, and scalability.
+
 
 ## 🛠 My skills and experience
-Languages: JavaScript, Python		
-Databases: PostgreSQL, SQLAlchemy, Sequelize
-Frontend: React, Next.js, Tailwind CSS	
-Backend & APIs: Flask, Express.js, Node.js
-Tools: Docker, Git, Redux Toolkit, VS
+- Languages: JavaScript, Python
+   
+- Databases: PostgreSQL, SQLAlchemy, Sequelize
+  
+- Frontend: React, Next.js, Tailwind CSS
+  
+- Backend & APIs: Flask, Express.js, Node.js
+  
+- Tools: Docker, Git, Redux Toolkit, VS
  
 ## 🔆 Key Projects
 Migration Station -  Express, SQL, React, Redux
