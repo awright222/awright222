@@ -17,15 +17,13 @@ Feel free to check out my portfolio, connect with me on LinkedIn, or reach out�
 
 
 ## 🛠 My skills and experience
-- Languages: JavaScript, Python
-   
-- Databases: PostgreSQL, SQLAlchemy, Sequelize
-  
-- Frontend: React, Next.js, Tailwind CSS
-  
-- Backend & APIs: Flask, Express.js, Node.js
-  
-- Tools: Docker, Git, Redux Toolkit, VS
+- Frontend: Next.js, React, Redux, Toolkit, HTML/CSS, Tailwind CSS  
+- Backend & APIs: Node.js, Express.js, Flask
+- Databases: PostreSQL, SQLite
+- ORMs: Sequelize, Alembic
+- Authentication: Custom JWT-based solutions with Auth.js
+- Cloud Services: AWS S3 for file/image uploads and display
+- Tools: Docker, Git, VS
  
 ## 🔆 Key Projects
 - Migration Station -  Express, SQL, React, Redux
