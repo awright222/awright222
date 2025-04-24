@@ -4,7 +4,7 @@ I'm a passionate full-stack software engineer with a unique background in progra
 
 Today, I thrive on creating innovative solutions to complex problems, combining technical expertise with a knack for collaboration and adaptability. With hands-on experience in JavaScript, Python, React, Redux Toolkit, Flask, and SQL, I’ve successfully built scalable, high-performance applications from scratch. Whether it’s developing responsive frontends, designing efficient backend APIs, or optimizing user experiences, I enjoy every step of the process.
 
-Before transitioning to tech, I spent years managing teams and delivering results in high-pressure environments. As a Program Manager at EXOS, I led a team of over 50 employees, achieving significant growth and honing my leadership and analytical skills. My career in real estate further sharpened my client-focused approach and ability to navigate complex systems—skills that now complement my engineering work.
+Before transitioning to tech, I spent years managing teams and delivering results in high-pressure environments. As a Program Manager at Google with EXOS, I led a team of over 50 employees, achieving significant growth and honing my leadership and analytical skills. My career in real estate further sharpened my client-focused approach and ability to navigate complex systems—skills that now complement my engineering work.
 
 I’m driven by curiosity and a love of learning, constantly pushing myself to master new tools and technologies. When I’m not coding, you’ll find me exploring the outdoors, spending time with my family, or brainstorming the next big project.
 
