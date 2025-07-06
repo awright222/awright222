@@ -25,8 +25,7 @@ Feel free to check out my portfolio, connect with me on LinkedIn, or reach outâ€
 - Authentication: Custom JWT-based solutions with Auth.js
 - Cloud Services: AWS S3 for file/image uploads and display
 - Tools: Docker, Git, VS
-- Microsoft Dynamics 365
-- Azure
+- Microsoft Dynamics 365 Business Central
  
 ## ðŸ”† Key Projects
 - Guide Finder  -  Python, Flask, SQLAlchamy, Docker, Redux, Toolkit
