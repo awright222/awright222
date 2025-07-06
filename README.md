@@ -28,6 +28,9 @@ Feel free to check out my portfolio, connect with me on LinkedIn, or reach outâ€
 - Microsoft Dynamics 365 Business Central
  
 ## ðŸ”† Key Projects
+- Formulate - React, Firebase, JavaScript, CSS3, React Router
+A comprehensive React-based test creation and management platform designed for modern education. Built with scalability in mind, Formulate supports everything from individual educators to large educational organizations with advanced role-based access, analytics, and administrative tools.
+
 - Guide Finder  -  Python, Flask, SQLAlchamy, Docker, Redux, Toolkit
 Created an advanced search and filtering system using React, Flask, and PostgreSQL, allowing users to refine outdoor guides by activity type, location, and skill level.
 Optimized backend API performance with SQLAlchemy and Flask-SQLAlchemy, reducing query times and ensuring smooth data retrieval for a responsive UI.
