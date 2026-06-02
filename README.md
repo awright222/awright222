@@ -12,7 +12,7 @@ Feel free to check out my portfolio, connect with me on LinkedIn, or reach out�
 
 ## 💻 I’m currently working on
 - ⚡ ** Building and improving my apps! [dealforgehq.com ](https://dealforgehq.com/), [www.usebuildgrade.com](https://www.usebuildgrade.com/) , [oppmap.com](https://www.oppmap.com/) , [www.yardcalcapp.com](https://yardcalcapp.com/)
-- 🗺️ ** meadowlark-labs.com
+- 🗺️ ** [meadowlark-labs.com](https://www.meadowlark-labs.com/)
 
 
 ## 🛠 My skills and experience
