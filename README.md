@@ -11,9 +11,8 @@ I’m driven by curiosity and a love of learning, constantly pushing myself to m
 Feel free to check out my portfolio, connect with me on LinkedIn, or reach out—I’d love to chat about opportunities to build impactful software solutions together!
 
 ## 💻 I’m currently working on
-- ⚡ **Learning C#! 
-- 🔐 **Authentication & Security** – Enhancing session-based authentication, CSRF protection, and best security practices  
-- 🗺️ **Mapping & Tracking Functionality** – Exploring interactive maps and real-time tracking with Leaflet, Mapbox, or Google Maps APIs  
+- ⚡ ** Building and improving my apps! dealforgehq.com, usebuildgrade.com, oppmap.com, yardcalcapp.com
+- 🗺️ ** meadowlark-labs.com
 
 
 ## 🛠 My skills and experience
