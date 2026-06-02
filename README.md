@@ -11,7 +11,7 @@ I’m driven by curiosity and a love of learning, constantly pushing myself to m
 Feel free to check out my portfolio, connect with me on LinkedIn, or reach out—I’d love to chat about opportunities to build impactful software solutions together!
 
 ## 💻 I’m currently working on
-- ⚡ ** Building and improving my apps! dealforgehq.com, usebuildgrade.com, oppmap.com, yardcalcapp.com
+- ⚡ ** Building and improving my apps! [dealforgehq.com ](https://dealforgehq.com/), [www.usebuildgrade.com](https://www.usebuildgrade.com/) , [oppmap.com](https://www.oppmap.com/) , [www.yardcalcapp.com](https://yardcalcapp.com/)
 - 🗺️ ** meadowlark-labs.com
 
 
